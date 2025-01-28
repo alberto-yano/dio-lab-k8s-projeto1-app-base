@@ -2,7 +2,7 @@
 
 # :question: Sobre
 
-Esse projeto é um exercício da aula da **DIO "Formação Kubernetes Fundamentals"** onde o código fonte do projeto original se encontra neste [link]([https://github.com/denilsonbonatti/k8s-projeto1-app-base).
+Esse projeto é um exercício da aula da **DIO "Formação Kubernetes Fundamentals"** onde o código fonte do projeto original se encontra neste [link](https://github.com/denilsonbonatti/k8s-projeto1-app-base).
 
 O exercício consiste em fazer a parte do banco de dados, os scripts de deployments e services, configurando tudo para subir integrado funcionando o frontend para a inserção de dados.
 
